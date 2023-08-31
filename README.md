@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a results-driven and innovative **Senior Software QA Engineer** with over 8 years of experience specializing in test automation, Cypress, and TypeScript. I excel at ensuring high-quality software and building robust testing solutions. My diverse background includes creating detailed test plans, developing functional test cases, and identifying and reporting defects, all while utilizing relevant tools and technologies like TypeScript, JavaScript, Git, and others to fine-tune test processes, quality standards, and STLC workflows.
+I'm a results-driven and innovative **Software Quality Assurance Automation Engineer** with over 9 years of experience in software quality assurance, with 6 years specializing in test automation, Cypress, and TypeScript. I excel at ensuring high-quality software and building robust testing solutions. My diverse background includes creating detailed test plans, developing functional test cases, and identifying and reporting defects, all while utilizing relevant tools and technologies like TypeScript, JavaScript, Git, and others to fine-tune test processes, quality standards, and STLC workflows.
 
 My passion extends to creating innovative solutions such as up-skilling initiatives, UX design libraries, and email templates that increase efficiency, quality, and customer satisfaction. I enjoy mentoring and providing constructive feedback to product and engineering teams, which leads to successful project outcomes.
 
@@ -26,7 +26,7 @@ I am continually looking for opportunities to contribute to open-source projects
 
 ### Let's Connect! 🚀
 
-If you're looking for a dedicated and passionate **Senior Software QA Engineer** or **SDET** to join your team, bring innovative solutions, and elevate your projects to new heights, don't hesitate to reach out! I'm always excited to collaborate with like-minded professionals and contribute my skills to create high-quality software solutions.
+If you're looking for a dedicated and passionate **QA Automation Engineer** or **SDET** to join your team, bring innovative solutions, and elevate your projects to new heights, don't hesitate to reach out! I'm always excited to collaborate with like-minded professionals and contribute my skills to create high-quality software solutions.
 
 Whether it's working on open-source projects, providing mentorship, or discussing potential job opportunities, I would be thrilled to hear from you. Let's connect and explore how my expertise can help you achieve your goals!
 
