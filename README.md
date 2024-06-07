@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a results-driven and innovative **Software Quality Assurance Automation Engineer** with over 9 years of experience in software quality assurance, with 6 years specializing in test automation, Cypress, and TypeScript. I excel at ensuring high-quality software and building robust testing solutions. My diverse background includes creating detailed test plans, developing functional test cases, and identifying and reporting defects, all while utilizing relevant tools and technologies like TypeScript, JavaScript, Git, and others to fine-tune test processes, quality standards, and STLC workflows.
+I'm a results-driven and innovative **Software Quality Assurance Automation Engineer** with over 10 years of experience in software quality assurance, with 7 years specializing in test automation, Cypress, and TypeScript. I excel at ensuring high-quality software and building robust testing solutions. My diverse background includes creating detailed test plans, developing functional test cases, and identifying and reporting defects, all while utilizing relevant tools and technologies like TypeScript, JavaScript, Git, and others to fine-tune test processes, quality standards, and STLC workflows.
 
 My passion extends to creating innovative solutions such as up-skilling initiatives, UX design libraries, and email templates that increase efficiency, quality, and customer satisfaction. I enjoy mentoring and providing constructive feedback to product and engineering teams, which leads to successful project outcomes.
 
