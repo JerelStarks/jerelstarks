@@ -1,39 +1,63 @@
 # Jerel Nelson Starks 👨‍💻
 
-## SDET & Senior Software QA Engineer | Cypress / Playwright & TypeScript Expert
+## Senior Software Engineer | Full Stack & Quality Engineering (SDET)
+
+**TypeScript • React • Next.js • PostgreSQL • Playwright • Cypress**
 
 📍 Silicon Valley (Bay Area, California) & Silicon Slopes (Salt Lake City Metropolitan Area, Utah)
 
-### About Me
+### 👋 About Me
 
-I'm a results-driven and innovative **Software Development Engineer in Test** (SDET) with over 10 years of experience in software quality assurance, specializing in test automation (Cypress and Playwright with TypeScript). I excel at ensuring high-quality software and building robust testing solutions. My diverse background includes creating detailed test plans, developing functional test cases, and identifying and reporting defects, all while utilizing relevant tools and technologies like TypeScript / JavaScript, Python, Git, and others to fine-tune test processes, quality standards, and STLC workflows.
+I'm a senior software engineer with 12+ years in software quality engineering. I build full-stack SaaS applications end to end, from database design and backend services through the front end and UX, along with the test automation and CI/CD quality gates that keep each release reliable.
 
-My passion extends to creating innovative solutions such as up-skilling initiatives, UX design libraries, and templates that increase efficiency, quality, and customer satisfaction. I enjoy mentoring and providing constructive feedback to product and engineering teams, which leads to successful project outcomes.
+I currently architect and build web applications at an AI-accelerated product studio that works with early-stage startups. Since 2017 I've built, rebuilt, or expanded Cypress and Playwright test automation frameworks at seven companies, much of it in regulated domains including HIPAA health tech, medical device quality, and FinTech.
 
-### Proud Contributions
+My education is in Multi-Disciplinary Design, which is why my test suites and acceptance criteria are organized around user journeys.
 
-Throughout my career, I have made significant contributions that have had a positive impact on the teams and projects I have been a part of. Some of these contributions include:
+### 🚀 What I Build
 
-1. **Fridaymation Initiative at Rightsline**: I organized an up-skilling program called "Fridaymation" for associate-level QA engineers to teach them Cypress and TypeScript. This initiative increased QA bandwidth, accelerated regression and smoke testing, and improved code quality reporting.
+- **A HIPAA-compliant health tech platform**, built from the ground up. I designed the architecture and defined the end-to-end testing strategy for clinical prescription workflows across web and API layers.
+- **A project and task management application**
+- **A CRM platform**
+- **An inbound leads and sales platform**
+- **A photo organization platform for photographers**
 
-2. **Mentorship at NewFold Digital**: I mentored a new QA engineer who was transferred from the Customer Experience department. By providing ISTQB learning materials, peer-testing, and regular 1:1's, the new QA engineer successfully ramped up to handle their new job responsibilities.
+Features I've shipped across these products include real-time collaborative editing with Tiptap and Yjs, AI features through the Vercel AI SDK (Anthropic, OpenAI, Gemini), Model Context Protocol (MCP) integrations with OAuth 2.0, Stripe payments, background job queues with pg-boss, and PWA web push notifications.
 
-3. **Design Library and Guidelines at Arcserve**: While testing a web portal called "ShadowControl," I created and demoed a new design library and guidelines driven by feedback received from QA and issues that arose during QA testing. This new design library sparked a significant discourse within the engineering organization and led to the implementation of many aspects of the design library.
+### 🧰 Tech Stack
 
-4. **UX Design and Email Template Improvements at RoviTracker Incorporated**: I created numerous UX artifacts, including a new user onboarding stepper for companies looking to use RoviTracker for their heavy equipment tracking. Additionally, I designed and implemented a new email template that is still in use today. These contributions received a lot of positive feedback and improved the overall user experience.
+| Area | Tools |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Python, SQL, Bash/Zsh, HTML, CSS |
+| **Front end** | React, Next.js (App Router), Tailwind CSS, shadcn/ui, Radix UI |
+| **Back end & data** | Node.js, Deno, PostgreSQL (Row-Level Security), Supabase (Auth, Realtime, Edge Functions), Prisma, Zod |
+| **Testing** | Playwright, Cypress, Vitest, MSW, Appium, Selenium, Jest, Postman |
+| **CI/CD & cloud** | GitHub Actions, Docker, Kubernetes, AWS, Vercel, Railway, Sentry |
+| **AI engineering** | Vercel AI SDK, Model Context Protocol (MCP), Cursor, Claude Code, GitHub Copilot |
 
-I am continually looking for opportunities to contribute to open-source projects and collaborate with the tech community to drive innovation and share knowledge.
+### 🧪 Quality Engineering
 
-### Let's Connect!
+- **Frameworks from scratch.** I design and deploy E2E testing frameworks in Playwright, Cypress, and TypeScript, with quality gates and GitHub Actions CI/CD that support rapid release cycles.
+- **AI in the testing itself.** I've implemented LLM-based test data generation and self-healing test scripts, where AI agents update selectors as the DOM changes.
+- **Coverage across the stack.** UI and E2E, API, integration, regression, and performance testing.
+- **Requirements a team can test against.** I turn loose requirements into user stories and acceptance criteria that product and engineering both work from.
+- **Proof-of-concept projects.** I build automation proofs of concept here on GitHub to evaluate new libraries and UI/UX patterns before recommending them.
 
-If you're looking for a dedicated and passionate **QA Automation Engineer** or **SDET** to join your team, bring innovative solutions, and elevate your projects to new heights, don't hesitate to reach out! I'm always excited to collaborate with like-minded professionals and contribute my skills to create high-quality software solutions.
+### 🌟 Contributions I'm Proud Of
 
-Whether it's working on open-source projects, providing mentorship, or discussing potential job opportunities, I would be thrilled to hear from you. Let's connect and explore how my expertise can help you achieve your goals!
+1. **Fridaymation at Rightsline.** I started a weekly program that taught junior QA staff Cypress and TypeScript. Coverage went up and regression cycles ran 30% faster.
 
-📧 Email: <mobile04cycloid@icloud.com>
+2. **Mentorship at Newfold Digital.** I worked with a colleague moving from Customer Experience into QA, sharing ISTQB materials, peer testing, and regular one-on-ones until they were taking on work independently.
 
-💼 LinkedIn: [linkedin.com/in/nelsonstarks](https://www.linkedin.com/in/jerelstarks)
+3. **Design library at Arcserve.** While testing the ShadowControl web portal, I proposed and built a design library and guidelines grounded in QA findings. It influenced engineering-wide standards and made the product more consistent.
 
-🐦 X (FKA Twitter): [@nelsonstarks](https://twitter.com/jerelstarks)
+4. **UX and email templates at RoviTracker.** I designed UX artifacts, including a new onboarding stepper for companies adopting heavy equipment tracking, and redesigned the email templates for marketing campaigns and application notifications.
 
-Looking forward to connecting with you!
+### 🤝 Let's Connect
+
+I enjoy talking about how teams build and test software, and I'd be glad to hear about senior software engineer, SDET, and quality engineering roles, open-source collaboration, or mentoring.
+
+- 📧 [mobile04cycloid@icloud.com](mailto:mobile04cycloid@icloud.com)
+- 💼 [linkedin.com/in/nelsonstarks](https://www.linkedin.com/in/jerelstarks)
+- 🎨 [behance.net/jerelstarks](https://www.behance.net/jerelstarks)
+- 🐦 [@nelsonstarks](https://twitter.com/jerelstarks)
